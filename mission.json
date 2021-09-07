@@ -19,7 +19,7 @@
         "phase":3
     },
     {
-        "name":"宝物庫の扉を開け",
+        "name":"宝物庫の扉を開け 初級",
         "num":1,
         "type":"event",
         "phase":1
