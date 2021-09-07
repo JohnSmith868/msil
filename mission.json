@@ -1,0 +1,26 @@
+[
+    {
+        "name":"未確認座標Ｘ－Ｃ",
+        "num":3,
+        "type":"free",
+        "phase":3
+    },
+    {
+        "name":"未確認座標Ｘ－Ｄ",
+        "num":1,
+        "type":"free",
+        "phase":3
+    },
+    {
+        "name":"ガリア",
+        "num":1,
+        "type":"free",
+        "phase":3
+    },
+    {
+        "name":"宝物庫の扉を開け",
+        "num":1,
+        "type":"event",
+        "phase":1
+    }
+]
