@@ -1,28 +1,22 @@
 {
     "info":[
     {
-        "name":"未確認座標Ｘ－Ｃ",
-        "num":3,
+        "name":"未確認座標Ｘ－Ｆ",
+        "num":2,
         "type":"free",
         "phase":3
     },
     {
-        "name":"未確認座標Ｘ－Ｄ",
-        "num":1,
+        "name":"ボルドー",
+        "num":2,
         "type":"free",
         "phase":3
     },
     {
-        "name":"ガリア",
+        "name":"北の境界",
         "num":1,
         "type":"free",
         "phase":3
-    },
-    {
-        "name":"宝物庫の扉を開け 初級",
-        "num":1,
-        "type":"event",
-        "phase":1
     }
 ]
 }
